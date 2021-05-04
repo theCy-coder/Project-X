@@ -1,23 +1,35 @@
-import logo from './logo.svg';
-import './App.css';
+import { useState } from 'react';
+
+import Greeting from './pages/Greeting';
+import First from './pages/First';
+import Second from './pages/Second';
+import Third from './pages/Third';
+
+import Startup from './res/backgrounds/startup.png';
+import StarryNight from './res/backgrounds/starry-night.gif';
+import DayNight from './res/backgrounds/day-night.gif';
+import Sunset from './res/backgrounds/sunset.gif';
 
 function App() {
+
+  const [ pageCount, setPageCount ] = useState(0);
+
+  const Pages = [
+    <Greeting background={Startup}/>,
+    <First background={StarryNight}/>,
+    <Second background={DayNight} />,
+    <Third background={Sunset}/>,
+  ];
+
+  const updatePage = () => {
+    if (pageCount < Pages.length-1) { 
+      setPageCount(()=>pageCount+1);
+    }
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div id="binder" onClick={updatePage}>
+      {Pages[pageCount]}
     </div>
   );
 }

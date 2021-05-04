@@ -1,0 +1,11 @@
+$dark-color: #222;
+$light-color: #f1f1f1;
+
+$retro-blue: #2a3492;
+$retro-red: #ef4423;
+
+@mixin backgroundConfig() {
+  background-repeat: inherit;
+  background-position: center;
+  background-size: cover;
+}
