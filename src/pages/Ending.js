@@ -1,9 +1,8 @@
-import MessageBox from '../components/MessageBox';
 import Heart from '../res/heart.svg';
 
 import { useState, useEffect } from 'react';
 
-function Third({ bg }) {
+function Ending({ bg }) {
     const [ ready, isReady ] = useState(false);
     const [ BackgroundImage, setBackgroundImage ] = useState("");
 
@@ -38,21 +37,15 @@ function Third({ bg }) {
         justifyContent: "center",
         alignItems: "center",
     }
-
-
-
     return (
         (ready)
         ?
-        <div style={background} className="container third-page">
-            <MessageBox title="Fun Fact!" type="dynamic" text="The sun is not the brightest thing, 
-It's your existence and you came at the right time." />
-        </div>
+        <div className="container ending" style={background}></div>
         :
         <div style={loading}>
             <img id="loading-heart" src={Heart} alt="loading heart" />
-        </div>
+       </div>
     )
 }
 
-export default Third
+export default Ending

@@ -58,10 +58,14 @@
     background-repeat: no-repeat;
     background-size: 200% 200%;
   }
+
+  transition: all ease-in-out 500ms;
 }
 
 .first-page,
 .second-page,
-.third-page {
+.third-page,
+.fourth-page,
+.ending {
   @include backgroundConfig();
 }

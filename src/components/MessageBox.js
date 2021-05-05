@@ -1,8 +1,8 @@
 import Typical from 'react-typical';
 
-function MessageBox({text, type, title}) {
+function MessageBox({onClick, text, type, title}) {
     return (
-        <div id="MessageBox" className="MessageBox">
+        <div onClick={onClick} id="MessageBox" className="MessageBox">
             {
                 (title)
                 ?
@@ -17,13 +17,13 @@ function MessageBox({text, type, title}) {
                 <p id="text-holder">
                     <Typical
                     loop="1"
-                    wrapper="em"
-                    steps={[text]}
+                    wrapper="span"
+                    steps={(Array.isArray(text))? text.flat(): [text]}
                     />
                 </p>
                 {
                     (type==="dynamic")
-                        ? <span>&#9660;</span>
+                        ? <strong>&#9660;</strong>
                         :(type==="static")? <></>
                         : <></>
                 }
