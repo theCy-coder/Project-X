@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.4e7383d5.chunk.css",
-    "main.js": "/static/js/main.3104bf59.chunk.js",
-    "main.js.map": "/static/js/main.3104bf59.chunk.js.map",
+    "main.css": "/static/css/main.fa96aa32.chunk.css",
+    "main.js": "/static/js/main.5c6aad96.chunk.js",
+    "main.js.map": "/static/js/main.5c6aad96.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.99b62323.js",
     "runtime-main.js.map": "/static/js/runtime-main.99b62323.js.map",
     "static/js/2.42d095e8.chunk.js": "/static/js/2.42d095e8.chunk.js",
     "static/js/2.42d095e8.chunk.js.map": "/static/js/2.42d095e8.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.4e7383d5.chunk.css.map": "/static/css/main.4e7383d5.chunk.css.map",
+    "static/css/main.fa96aa32.chunk.css.map": "/static/css/main.fa96aa32.chunk.css.map",
     "static/js/2.42d095e8.chunk.js.LICENSE.txt": "/static/js/2.42d095e8.chunk.js.LICENSE.txt",
     "static/media/Main.scss": "/static/media/SuperLegendBoy.724743cc.ttf",
     "static/media/couple-dark.5fe26f4f.gif": "/static/media/couple-dark.5fe26f4f.gif",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.99b62323.js",
     "static/js/2.42d095e8.chunk.js",
-    "static/css/main.4e7383d5.chunk.css",
-    "static/js/main.3104bf59.chunk.js"
+    "static/css/main.fa96aa32.chunk.css",
+    "static/js/main.5c6aad96.chunk.js"
   ]
 }
