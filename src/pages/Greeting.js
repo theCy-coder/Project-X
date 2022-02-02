@@ -46,8 +46,8 @@ function Greeting({bg}) {
        ?
        <div style={background} className="container greeting">
         <div className="poster">
-            <h1>HAPPY 18<sup>TH</sup> BIRTHDAY SHARLYN!</h1>
-            <p>Enjoy your day with a smile!</p>  
+            <h1>Will you be my Valentine?</h1>
+            <p>Hope you like it! Ilysb</p>  
         </div>
         <div className="page-notes">
             <MessageBox type="static" text="Take your time to read my messages for you."/>
