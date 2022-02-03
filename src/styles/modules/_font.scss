@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "PressStart2p";
+  src: url("../../res/fonts/PressStart2p.ttf");
+}
+@font-face {
+  font-family: "SuperLegendBoy";
+  src: url("../../res/fonts/SuperLegendBoy.ttf");
+}
+@mixin applyFont($type, $size, $color) {
+  @if $type== "header" {
+    font-family: "PressStart2p", fantasy;
+  } @else if $type== "body" {
+    font-family: "SuperLegendBoy", fantasy;
+  }
+
+  font-size: clamp(1.5vw, $size, 10vw);
+  color: $color;
+}
