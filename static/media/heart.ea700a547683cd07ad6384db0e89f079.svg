@@ -2,43 +2,43 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlnsDc="http://purl.org/dc/elements/1.1/"
+   xmlnsCc="http://creativecommons.org/ns#"
+   xmlnsRdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlnsSvg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlnsSodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlnsInkscape="http://www.inkscape.org/namespaces/inkscape"
    width="60"
    height="60"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Novo documento 1">
+   inkscapeVersion="0.48.4 r9939"
+   sodipodiDocname="Novo documento 1">
   <defs
      id="defs4" />
-  <sodipodi:namedview
+  <sodipodiNamedview
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="5.3332631"
-     inkscape:cx="25.622065"
-     inkscape:cy="33.052464"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscapePageopacity="0.0"
+     inkscapePageshadow="2"
+     inkscapeZoom="5.3332631"
+     inkscapeCx="25.622065"
+     inkscapeCy="33.052464"
+     inkscapeDocumentUnits="px"
+     inkscapeCurrentLayer="layer1"
      showgrid="true"
      borderlayer="true"
-     inkscape:showpageshadow="false"
-     inkscape:snap-bbox="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="692"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1">
-    <inkscape:grid
+     inkscapeShowpageshadow="false"
+     inkscapeSnap-bbox="true"
+     inkscapeWindow-width="1366"
+     inkscapeWindow-height="692"
+     inkscapeWindow-x="0"
+     inkscapeWindow-y="24"
+     inkscapeWindowMaximized="1">
+    <inkscapeGrid
        type="xygrid"
        id="grid2985"
        empspacing="2"
@@ -48,22 +48,22 @@
        spacingx="6px"
        spacingy="6px"
        dotted="true" />
-  </sodipodi:namedview>
+  </sodipodiNamedview>
   <metadata
      id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
+    <rdfRDF>
+      <ccWork
+         rdfAbout="">
+        <dcFormat>image/svg+xml</dcFormat>
+        <dcType
+           rdfResource="http://purl.org/dc/dcmitype/StillImage" />
+        <dcTitle></dcTitle>
+      </ccWork>
+    </rdfRDF>
   </metadata>
   <g
-     inkscape:label="Camada 1"
-     inkscape:groupmode="layer"
+     inkscapeLabel="Camada 1"
+     inkscapeGroupmode="layer"
      id="layer1"
      transform="translate(0,-992.36218)">
     <rect

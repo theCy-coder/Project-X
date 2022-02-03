@@ -1,28 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.fa96aa32.chunk.css",
-    "main.js": "/static/js/main.5c6aad96.chunk.js",
-    "main.js.map": "/static/js/main.5c6aad96.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.99b62323.js",
-    "runtime-main.js.map": "/static/js/runtime-main.99b62323.js.map",
-    "static/js/2.42d095e8.chunk.js": "/static/js/2.42d095e8.chunk.js",
-    "static/js/2.42d095e8.chunk.js.map": "/static/js/2.42d095e8.chunk.js.map",
+    "main.css": "/static/css/main.0553e913.css",
+    "main.js": "/static/js/main.f7d0f83c.js",
+    "static/media/dancing.gif": "/static/media/dancing.80f2653693bd3a545c13.gif",
+    "static/media/startup.png": "/static/media/startup.9bd5d86be674a34ca198.png",
+    "static/media/day-night.gif": "/static/media/day-night.18c1f4c32ca876de5c0c.gif",
+    "static/media/sunset.gif": "/static/media/sunset.135cdf16b8d2e400029f.gif",
+    "static/media/PressStart2p.ttf": "/static/media/PressStart2p.2ebf1a35a67b4271603e.ttf",
+    "static/media/starry-night.gif": "/static/media/starry-night.73e52fc72c789b8ba35d.gif",
+    "static/media/couple-dark.gif": "/static/media/couple-dark.5fe26f4fd4430f191a2b.gif",
+    "static/media/SuperLegendBoy.ttf": "/static/media/SuperLegendBoy.724743cc48ac2e9b0145.ttf",
+    "static/media/heart.svg": "/static/media/heart.ea700a547683cd07ad6384db0e89f079.svg",
     "index.html": "/index.html",
-    "static/css/main.fa96aa32.chunk.css.map": "/static/css/main.fa96aa32.chunk.css.map",
-    "static/js/2.42d095e8.chunk.js.LICENSE.txt": "/static/js/2.42d095e8.chunk.js.LICENSE.txt",
-    "static/media/Main.scss": "/static/media/SuperLegendBoy.724743cc.ttf",
-    "static/media/couple-dark.5fe26f4f.gif": "/static/media/couple-dark.5fe26f4f.gif",
-    "static/media/dancing.80f26536.gif": "/static/media/dancing.80f26536.gif",
-    "static/media/day-night.18c1f4c3.gif": "/static/media/day-night.18c1f4c3.gif",
-    "static/media/heart.8ecaf7d3.svg": "/static/media/heart.8ecaf7d3.svg",
-    "static/media/starry-night.73e52fc7.gif": "/static/media/starry-night.73e52fc7.gif",
-    "static/media/startup.9bd5d86b.png": "/static/media/startup.9bd5d86b.png",
-    "static/media/sunset.135cdf16.gif": "/static/media/sunset.135cdf16.gif"
+    "main.0553e913.css.map": "/static/css/main.0553e913.css.map",
+    "main.f7d0f83c.js.map": "/static/js/main.f7d0f83c.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.99b62323.js",
-    "static/js/2.42d095e8.chunk.js",
-    "static/css/main.fa96aa32.chunk.css",
-    "static/js/main.5c6aad96.chunk.js"
+    "static/css/main.0553e913.css",
+    "static/js/main.f7d0f83c.js"
   ]
 }
