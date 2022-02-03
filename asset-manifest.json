@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0553e913.css",
-    "main.js": "/static/js/main.f7d0f83c.js",
+    "main.js": "/static/js/main.500399e7.js",
     "static/media/dancing.gif": "/static/media/dancing.80f2653693bd3a545c13.gif",
     "static/media/startup.png": "/static/media/startup.9bd5d86be674a34ca198.png",
     "static/media/day-night.gif": "/static/media/day-night.18c1f4c32ca876de5c0c.gif",
@@ -10,13 +10,13 @@
     "static/media/starry-night.gif": "/static/media/starry-night.73e52fc72c789b8ba35d.gif",
     "static/media/couple-dark.gif": "/static/media/couple-dark.5fe26f4fd4430f191a2b.gif",
     "static/media/SuperLegendBoy.ttf": "/static/media/SuperLegendBoy.724743cc48ac2e9b0145.ttf",
-    "static/media/heart.svg": "/static/media/heart.ea700a547683cd07ad6384db0e89f079.svg",
+    "static/media/heart.svg": "/static/media/heart.7927c8537958626965ac66f42bb375f5.svg",
     "index.html": "/index.html",
     "main.0553e913.css.map": "/static/css/main.0553e913.css.map",
-    "main.f7d0f83c.js.map": "/static/js/main.f7d0f83c.js.map"
+    "main.500399e7.js.map": "/static/js/main.500399e7.js.map"
   },
   "entrypoints": [
     "static/css/main.0553e913.css",
-    "static/js/main.f7d0f83c.js"
+    "static/js/main.500399e7.js"
   ]
 }
